@@ -2,7 +2,7 @@
 
 # 📝 `Markdown Previewer - Quick Reference`
 
-#### 🌟 **Live Preview** 🌟 → 💕 [**Markdown Previewer**](https://sbc-elearning.netlify.app/) 💕
+#### 🌟 **Live Preview** 🌟 → 💕 [**Markdown Previewer**](https://markdownpreviewer2025.netlify.app/) 💕
 
 🎉 Click to explore the fun and laughter! 😄
 
